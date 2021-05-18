@@ -18,6 +18,8 @@ public class dfdas {
 		System.out.println("곱셈:"+(first*second));
 	}else if(symbol.equals("/")) {
 		System.out.println("나눗셈:"+(first/second));
+	}else {
+		System.out.println("올바른 사칙연산 값을 입력해주세요.");
 	}
 		
 	}
